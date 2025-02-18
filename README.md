@@ -1,3 +1,10 @@
+Clona el repositorio utilizando
+```batch
+git clone https://github.com/Whiskoder/typescript-template.git
+```
+
+Abre la terminal dentro de la carpeta donde clonaste el repositorio
+
 Instala las dependencias del proyecto utilizando el siguiente comando en tu terminal:
 ```batch
 npm install
